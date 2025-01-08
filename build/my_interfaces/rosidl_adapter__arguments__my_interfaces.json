@@ -1,0 +1,11 @@
+{
+  "package_name": "my_interfaces",
+  "non_idl_tuples": [
+    "/home/kim/ros2_ws/src/my_interfaces:srv/AddThreeInts.srv",
+    "/home/kim/ros2_ws/src/my_interfaces:msg/SensorStatus.msg",
+    "/home/kim/ros2_ws/src/my_interfaces:srv/Move.srv",
+    "/home/kim/ros2_ws/src/my_interfaces:action/CountUntil.action",
+    "/home/kim/ros2_ws/src/my_interfaces:action/Move.action",
+    "/home/kim/ros2_ws/src/my_interfaces:msg/NumForTest.msg"
+  ]
+}

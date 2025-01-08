@@ -1,0 +1,44 @@
+[0.659s] Invoking command in '/home/kim/ros2_ws/src/my_first_pkg': CMAKE_PREFIX_PATH=/home/kim/ros2_ws/install/my_interfaces:/home/kim/ros2_ws/install/my_robot_description PYTHONPATH=/home/kim/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/kim/ros2_ws/build/my_first_pkg/build install --record /home/kim/ros2_ws/build/my_first_pkg/install.log --single-version-externally-managed install_data
+[0.898s] running egg_info
+[0.898s] writing ../../build/my_first_pkg/my_first_pkg.egg-info/PKG-INFO
+[0.898s] writing dependency_links to ../../build/my_first_pkg/my_first_pkg.egg-info/dependency_links.txt
+[0.899s] writing entry points to ../../build/my_first_pkg/my_first_pkg.egg-info/entry_points.txt
+[0.899s] writing requirements to ../../build/my_first_pkg/my_first_pkg.egg-info/requires.txt
+[0.899s] writing top-level names to ../../build/my_first_pkg/my_first_pkg.egg-info/top_level.txt
+[0.901s] reading manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[0.902s] writing manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[0.902s] running build
+[0.902s] running build_py
+[0.903s] copying my_first_pkg/set_agv_speed_sub.py -> /home/kim/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg
+[0.903s] running install
+[0.904s] running install_lib
+[0.904s] copying /home/kim/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg/set_agv_speed_sub.py -> /home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[0.904s] byte-compiling /home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/set_agv_speed_sub.py to set_agv_speed_sub.cpython-310.pyc
+[0.905s] running install_data
+[0.906s] running install_egg_info
+[0.908s] removing '/home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.924s] Copying ../../build/my_first_pkg/my_first_pkg.egg-info to /home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info
+[0.924s] running install_scripts
+[0.931s] Installing add_three_ints_client script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.931s] Installing add_three_ints_server script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.931s] Installing add_two_ints_client script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.931s] Installing add_two_ints_server script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.931s] Installing count_until_client script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.931s] Installing count_until_server script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.931s] Installing counter_node script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.931s] Installing counter_pub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing move_client script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing move_server script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing robot_station2 script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing sensor_status_pub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing sensor_status_sub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing set_agv_speed_client script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing set_agv_speed_controller script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing set_agv_speed_sub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing sub_sub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing turtle_color script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing turtle_pose script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing turtlesim_controller script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] Installing turtlesim_pub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.932s] writing list of installed files to '/home/kim/ros2_ws/build/my_first_pkg/install.log'
+[0.959s] Invoked command in '/home/kim/ros2_ws/src/my_first_pkg' returned '0': CMAKE_PREFIX_PATH=/home/kim/ros2_ws/install/my_interfaces:/home/kim/ros2_ws/install/my_robot_description PYTHONPATH=/home/kim/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/kim/ros2_ws/build/my_first_pkg/build install --record /home/kim/ros2_ws/build/my_first_pkg/install.log --single-version-externally-managed install_data

@@ -1,0 +1,22 @@
+[0.648s] Invoking command in '/home/kim/ros2_ws/src/simple_test_pkg': PYTHONPATH=/home/kim/ros2_ws/build/simple_test_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/simple_test_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_test_pkg build --build-base /home/kim/ros2_ws/build/simple_test_pkg/build install --record /home/kim/ros2_ws/build/simple_test_pkg/install.log --single-version-externally-managed install_data
+[0.864s] running egg_info
+[0.864s] writing ../../build/simple_test_pkg/simple_test_pkg.egg-info/PKG-INFO
+[0.865s] writing dependency_links to ../../build/simple_test_pkg/simple_test_pkg.egg-info/dependency_links.txt
+[0.865s] writing entry points to ../../build/simple_test_pkg/simple_test_pkg.egg-info/entry_points.txt
+[0.865s] writing requirements to ../../build/simple_test_pkg/simple_test_pkg.egg-info/requires.txt
+[0.865s] writing top-level names to ../../build/simple_test_pkg/simple_test_pkg.egg-info/top_level.txt
+[0.868s] reading manifest file '../../build/simple_test_pkg/simple_test_pkg.egg-info/SOURCES.txt'
+[0.868s] writing manifest file '../../build/simple_test_pkg/simple_test_pkg.egg-info/SOURCES.txt'
+[0.868s] running build
+[0.868s] running build_py
+[0.868s] running install
+[0.868s] running install_lib
+[0.870s] running install_data
+[0.871s] running install_egg_info
+[0.875s] removing '/home/kim/ros2_ws/install/simple_test_pkg/lib/python3.10/site-packages/simple_test_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.875s] Copying ../../build/simple_test_pkg/simple_test_pkg.egg-info to /home/kim/ros2_ws/install/simple_test_pkg/lib/python3.10/site-packages/simple_test_pkg-0.0.0-py3.10.egg-info
+[0.877s] running install_scripts
+[0.896s] Installing counter_pub_test script to /home/kim/ros2_ws/install/simple_test_pkg/lib/simple_test_pkg
+[0.898s] Installing counter_sub_test script to /home/kim/ros2_ws/install/simple_test_pkg/lib/simple_test_pkg
+[0.899s] writing list of installed files to '/home/kim/ros2_ws/build/simple_test_pkg/install.log'
+[0.921s] Invoked command in '/home/kim/ros2_ws/src/simple_test_pkg' returned '0': PYTHONPATH=/home/kim/ros2_ws/build/simple_test_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/simple_test_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_test_pkg build --build-base /home/kim/ros2_ws/build/simple_test_pkg/build install --record /home/kim/ros2_ws/build/simple_test_pkg/install.log --single-version-externally-managed install_data

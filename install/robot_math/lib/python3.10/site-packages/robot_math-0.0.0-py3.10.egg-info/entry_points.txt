@@ -1,0 +1,4 @@
+[console_scripts]
+angular_vel = robot_math.angular_vel:main
+go_to_goal = robot_math.go_to_goal:main
+

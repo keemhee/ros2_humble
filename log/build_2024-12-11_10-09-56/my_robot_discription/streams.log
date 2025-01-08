@@ -1,0 +1,42 @@
+[0.028s] Invoking command in '/home/kim/ros2_ws/build/my_robot_discription': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake /home/kim/ros2_ws/src/my_robot_discription -DCMAKE_INSTALL_PREFIX=/home/kim/ros2_ws/install/my_robot_discription
+[0.252s] -- The C compiler identification is GNU 11.4.0
+[0.432s] -- The CXX compiler identification is GNU 11.4.0
+[0.459s] -- Detecting C compiler ABI info
+[0.597s] -- Detecting C compiler ABI info - done
+[0.607s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.608s] -- Detecting C compile features
+[0.609s] -- Detecting C compile features - done
+[0.618s] -- Detecting CXX compiler ABI info
+[0.723s] -- Detecting CXX compiler ABI info - done
+[0.735s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.739s] -- Detecting CXX compile features
+[0.740s] -- Detecting CXX compile features - done
+[0.747s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.015s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.216s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.339s] -- Added test 'lint_cmake' to check CMake code style
+[1.341s] -- Added test 'xmllint' to check XML markup files
+[1.344s] -- Configuring done
+[1.348s] -- Generating done
+[1.348s] -- Build files have been written to: /home/kim/ros2_ws/build/my_robot_discription
+[1.354s] Invoked command in '/home/kim/ros2_ws/build/my_robot_discription' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake /home/kim/ros2_ws/src/my_robot_discription -DCMAKE_INSTALL_PREFIX=/home/kim/ros2_ws/install/my_robot_discription
+[1.355s] Invoking command in '/home/kim/ros2_ws/build/my_robot_discription': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake --build /home/kim/ros2_ws/build/my_robot_discription -- -j8 -l8
+[1.399s] Invoked command in '/home/kim/ros2_ws/build/my_robot_discription' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake --build /home/kim/ros2_ws/build/my_robot_discription -- -j8 -l8
+[1.400s] Invoking command in '/home/kim/ros2_ws/build/my_robot_discription': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake --install /home/kim/ros2_ws/build/my_robot_discription
+[1.411s] -- Install configuration: ""
+[1.412s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/ament_index/resource_index/package_run_dependencies/my_robot_discription
+[1.412s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/ament_index/resource_index/parent_prefix_path/my_robot_discription
+[1.412s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/my_robot_discription/environment/ament_prefix_path.sh
+[1.412s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/my_robot_discription/environment/ament_prefix_path.dsv
+[1.413s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/my_robot_discription/environment/path.sh
+[1.413s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/my_robot_discription/environment/path.dsv
+[1.413s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/my_robot_discription/local_setup.bash
+[1.413s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/my_robot_discription/local_setup.sh
+[1.414s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/my_robot_discription/local_setup.zsh
+[1.414s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/my_robot_discription/local_setup.dsv
+[1.414s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/my_robot_discription/package.dsv
+[1.414s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/ament_index/resource_index/packages/my_robot_discription
+[1.414s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/my_robot_discription/cmake/my_robot_discriptionConfig.cmake
+[1.415s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/my_robot_discription/cmake/my_robot_discriptionConfig-version.cmake
+[1.415s] -- Installing: /home/kim/ros2_ws/install/my_robot_discription/share/my_robot_discription/package.xml
+[1.417s] Invoked command in '/home/kim/ros2_ws/build/my_robot_discription' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake --install /home/kim/ros2_ws/build/my_robot_discription

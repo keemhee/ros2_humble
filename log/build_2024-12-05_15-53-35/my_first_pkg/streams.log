@@ -1,0 +1,37 @@
+[0.820s] Invoking command in '/home/kim/ros2_ws/src/my_first_pkg': PYTHONPATH=/home/kim/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/kim/ros2_ws/build/my_first_pkg/build install --record /home/kim/ros2_ws/build/my_first_pkg/install.log --single-version-externally-managed install_data
+[1.060s] running egg_info
+[1.061s] writing ../../build/my_first_pkg/my_first_pkg.egg-info/PKG-INFO
+[1.061s] writing dependency_links to ../../build/my_first_pkg/my_first_pkg.egg-info/dependency_links.txt
+[1.061s] writing entry points to ../../build/my_first_pkg/my_first_pkg.egg-info/entry_points.txt
+[1.061s] writing requirements to ../../build/my_first_pkg/my_first_pkg.egg-info/requires.txt
+[1.061s] writing top-level names to ../../build/my_first_pkg/my_first_pkg.egg-info/top_level.txt
+[1.062s] reading manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.064s] writing manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.065s] running build
+[1.065s] running build_py
+[1.065s] copying my_first_pkg/turtlesim_controller.py -> /home/kim/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg
+[1.065s] running install
+[1.065s] running install_lib
+[1.067s] copying /home/kim/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg/turtlesim_controller.py -> /home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[1.067s] byte-compiling /home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/turtlesim_pose_sub.py to turtlesim_pose_sub.cpython-310.pyc
+[1.067s] byte-compiling /home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/turtlesim_controller.py to turtlesim_controller.cpython-310.pyc
+[1.067s]   File "/home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/turtlesim_pose_sub.py", line 20
+[1.067s]     self.get_logger().info(f"x: {pose.x},y: {pose.y}, theta: {pose.theta},
+[1.067s]                            ^
+[1.067s] SyntaxError: unterminated string literal (detected at line 20)
+[1.067s] 
+[1.067s] running install_data
+[1.068s] running install_egg_info
+[1.075s] removing '/home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.076s] Copying ../../build/my_first_pkg/my_first_pkg.egg-info to /home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info
+[1.077s] running install_scripts
+[1.095s] Installing counter_node script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[1.096s] Installing counter_pub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[1.096s] Installing robot_station2 script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[1.096s] Installing sub_sub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[1.096s] Installing turtle_color script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[1.097s] Installing turtle_pose script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[1.097s] Installing turtlesim_controller script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[1.097s] Installing turtlesim_pub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[1.097s] writing list of installed files to '/home/kim/ros2_ws/build/my_first_pkg/install.log'
+[1.122s] Invoked command in '/home/kim/ros2_ws/src/my_first_pkg' returned '0': PYTHONPATH=/home/kim/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/kim/ros2_ws/build/my_first_pkg/build install --record /home/kim/ros2_ws/build/my_first_pkg/install.log --single-version-externally-managed install_data

@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from my_interfaces/srv/Move.srv
+// generated code does not contain a copyright notice
+
+
+module my_interfaces {
+  module srv {
+    struct Move_Request {
+      float linear_velocity;
+
+      float angular_velocity;
+    };
+    struct Move_Response {
+      boolean success;
+
+      string message;
+    };
+  };
+};

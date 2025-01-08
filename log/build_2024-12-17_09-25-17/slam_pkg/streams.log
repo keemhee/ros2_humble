@@ -1,0 +1,36 @@
+[0.870s] Invoking command in '/home/kim/ros2_ws/src/slam_pkg': PYTHONPATH=/home/kim/ros2_ws/build/slam_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/slam_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/slam_pkg build --build-base /home/kim/ros2_ws/build/slam_pkg/build install --record /home/kim/ros2_ws/build/slam_pkg/install.log --single-version-externally-managed install_data
+[1.074s] running egg_info
+[1.075s] creating ../../build/slam_pkg/slam_pkg.egg-info
+[1.075s] writing ../../build/slam_pkg/slam_pkg.egg-info/PKG-INFO
+[1.075s] writing dependency_links to ../../build/slam_pkg/slam_pkg.egg-info/dependency_links.txt
+[1.075s] writing entry points to ../../build/slam_pkg/slam_pkg.egg-info/entry_points.txt
+[1.079s] writing requirements to ../../build/slam_pkg/slam_pkg.egg-info/requires.txt
+[1.079s] writing top-level names to ../../build/slam_pkg/slam_pkg.egg-info/top_level.txt
+[1.079s] writing manifest file '../../build/slam_pkg/slam_pkg.egg-info/SOURCES.txt'
+[1.079s] reading manifest file '../../build/slam_pkg/slam_pkg.egg-info/SOURCES.txt'
+[1.079s] writing manifest file '../../build/slam_pkg/slam_pkg.egg-info/SOURCES.txt'
+[1.079s] running build
+[1.080s] running build_py
+[1.080s] creating /home/kim/ros2_ws/build/slam_pkg/build
+[1.080s] creating /home/kim/ros2_ws/build/slam_pkg/build/lib
+[1.081s] creating /home/kim/ros2_ws/build/slam_pkg/build/lib/slam_pkg
+[1.081s] copying slam_pkg/__init__.py -> /home/kim/ros2_ws/build/slam_pkg/build/lib/slam_pkg
+[1.081s] copying slam_pkg/occupancy_pub.py -> /home/kim/ros2_ws/build/slam_pkg/build/lib/slam_pkg
+[1.081s] running install
+[1.082s] running install_lib
+[1.083s] creating /home/kim/ros2_ws/install/slam_pkg/lib/python3.10/site-packages/slam_pkg
+[1.083s] copying /home/kim/ros2_ws/build/slam_pkg/build/lib/slam_pkg/__init__.py -> /home/kim/ros2_ws/install/slam_pkg/lib/python3.10/site-packages/slam_pkg
+[1.084s] copying /home/kim/ros2_ws/build/slam_pkg/build/lib/slam_pkg/occupancy_pub.py -> /home/kim/ros2_ws/install/slam_pkg/lib/python3.10/site-packages/slam_pkg
+[1.085s] byte-compiling /home/kim/ros2_ws/install/slam_pkg/lib/python3.10/site-packages/slam_pkg/__init__.py to __init__.cpython-310.pyc
+[1.085s] byte-compiling /home/kim/ros2_ws/install/slam_pkg/lib/python3.10/site-packages/slam_pkg/occupancy_pub.py to occupancy_pub.cpython-310.pyc
+[1.085s] running install_data
+[1.086s] creating /home/kim/ros2_ws/install/slam_pkg/share/ament_index
+[1.086s] creating /home/kim/ros2_ws/install/slam_pkg/share/ament_index/resource_index
+[1.086s] creating /home/kim/ros2_ws/install/slam_pkg/share/ament_index/resource_index/packages
+[1.086s] copying resource/slam_pkg -> /home/kim/ros2_ws/install/slam_pkg/share/ament_index/resource_index/packages
+[1.087s] copying package.xml -> /home/kim/ros2_ws/install/slam_pkg/share/slam_pkg
+[1.087s] running install_egg_info
+[1.091s] Copying ../../build/slam_pkg/slam_pkg.egg-info to /home/kim/ros2_ws/install/slam_pkg/lib/python3.10/site-packages/slam_pkg-0.0.0-py3.10.egg-info
+[1.091s] running install_scripts
+[1.116s] writing list of installed files to '/home/kim/ros2_ws/build/slam_pkg/install.log'
+[1.137s] Invoked command in '/home/kim/ros2_ws/src/slam_pkg' returned '0': PYTHONPATH=/home/kim/ros2_ws/build/slam_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/slam_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/slam_pkg build --build-base /home/kim/ros2_ws/build/slam_pkg/build install --record /home/kim/ros2_ws/build/slam_pkg/install.log --single-version-externally-managed install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+og_pub = slam_pkg.occupancy_pub:main
+

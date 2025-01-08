@@ -1,0 +1,25 @@
+[0.785s] Invoking command in '/home/kim/ros2_ws/src/cv2_pkg': PYTHONPATH=/home/kim/ros2_ws/build/cv2_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cv2_pkg build --build-base /home/kim/ros2_ws/build/cv2_pkg/build install --record /home/kim/ros2_ws/build/cv2_pkg/install.log --single-version-externally-managed install_data
+[0.994s] running egg_info
+[0.995s] writing ../../build/cv2_pkg/cv2_pkg.egg-info/PKG-INFO
+[0.996s] writing dependency_links to ../../build/cv2_pkg/cv2_pkg.egg-info/dependency_links.txt
+[0.996s] writing entry points to ../../build/cv2_pkg/cv2_pkg.egg-info/entry_points.txt
+[0.996s] writing requirements to ../../build/cv2_pkg/cv2_pkg.egg-info/requires.txt
+[0.996s] writing top-level names to ../../build/cv2_pkg/cv2_pkg.egg-info/top_level.txt
+[0.997s] reading manifest file '../../build/cv2_pkg/cv2_pkg.egg-info/SOURCES.txt'
+[0.998s] writing manifest file '../../build/cv2_pkg/cv2_pkg.egg-info/SOURCES.txt'
+[0.998s] running build
+[0.998s] running build_py
+[0.998s] copying cv2_pkg/img_sub.py -> /home/kim/ros2_ws/build/cv2_pkg/build/lib/cv2_pkg
+[0.998s] running install
+[0.999s] running install_lib
+[1.000s] copying /home/kim/ros2_ws/build/cv2_pkg/build/lib/cv2_pkg/img_sub.py -> /home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages/cv2_pkg
+[1.001s] byte-compiling /home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages/cv2_pkg/img_sub.py to img_sub.cpython-310.pyc
+[1.001s] running install_data
+[1.001s] running install_egg_info
+[1.004s] removing '/home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages/cv2_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.004s] Copying ../../build/cv2_pkg/cv2_pkg.egg-info to /home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages/cv2_pkg-0.0.0-py3.10.egg-info
+[1.005s] running install_scripts
+[1.023s] Installing img_pub script to /home/kim/ros2_ws/install/cv2_pkg/lib/cv2_pkg
+[1.023s] Installing img_sub script to /home/kim/ros2_ws/install/cv2_pkg/lib/cv2_pkg
+[1.024s] writing list of installed files to '/home/kim/ros2_ws/build/cv2_pkg/install.log'
+[1.043s] Invoked command in '/home/kim/ros2_ws/src/cv2_pkg' returned '0': PYTHONPATH=/home/kim/ros2_ws/build/cv2_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cv2_pkg build --build-base /home/kim/ros2_ws/build/cv2_pkg/build install --record /home/kim/ros2_ws/build/cv2_pkg/install.log --single-version-externally-managed install_data

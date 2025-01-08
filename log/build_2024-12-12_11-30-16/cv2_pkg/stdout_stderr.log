@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/cv2_pkg/cv2_pkg.egg-info
+writing ../../build/cv2_pkg/cv2_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/cv2_pkg/cv2_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/cv2_pkg/cv2_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/cv2_pkg/cv2_pkg.egg-info/requires.txt
+writing top-level names to ../../build/cv2_pkg/cv2_pkg.egg-info/top_level.txt
+writing manifest file '../../build/cv2_pkg/cv2_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/cv2_pkg/cv2_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/cv2_pkg/cv2_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kim/ros2_ws/build/cv2_pkg/build
+creating /home/kim/ros2_ws/build/cv2_pkg/build/lib
+creating /home/kim/ros2_ws/build/cv2_pkg/build/lib/cv2_pkg
+copying cv2_pkg/img_sub.py -> /home/kim/ros2_ws/build/cv2_pkg/build/lib/cv2_pkg
+copying cv2_pkg/__init__.py -> /home/kim/ros2_ws/build/cv2_pkg/build/lib/cv2_pkg
+copying cv2_pkg/img_pub.py -> /home/kim/ros2_ws/build/cv2_pkg/build/lib/cv2_pkg
+running install
+running install_lib
+creating /home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages/cv2_pkg
+copying /home/kim/ros2_ws/build/cv2_pkg/build/lib/cv2_pkg/img_sub.py -> /home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages/cv2_pkg
+copying /home/kim/ros2_ws/build/cv2_pkg/build/lib/cv2_pkg/__init__.py -> /home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages/cv2_pkg
+copying /home/kim/ros2_ws/build/cv2_pkg/build/lib/cv2_pkg/img_pub.py -> /home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages/cv2_pkg
+byte-compiling /home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages/cv2_pkg/img_sub.py to img_sub.cpython-310.pyc
+byte-compiling /home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages/cv2_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages/cv2_pkg/img_pub.py to img_pub.cpython-310.pyc
+running install_data
+creating /home/kim/ros2_ws/install/cv2_pkg/share/ament_index
+creating /home/kim/ros2_ws/install/cv2_pkg/share/ament_index/resource_index
+creating /home/kim/ros2_ws/install/cv2_pkg/share/ament_index/resource_index/packages
+copying resource/cv2_pkg -> /home/kim/ros2_ws/install/cv2_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/kim/ros2_ws/install/cv2_pkg/share/cv2_pkg
+running install_egg_info
+Copying ../../build/cv2_pkg/cv2_pkg.egg-info to /home/kim/ros2_ws/install/cv2_pkg/lib/python3.10/site-packages/cv2_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/kim/ros2_ws/build/cv2_pkg/install.log'

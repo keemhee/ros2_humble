@@ -1,0 +1,3 @@
+int64 temerature
+bool is_motor_ready
+string debug_messages

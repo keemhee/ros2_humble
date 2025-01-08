@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/robot_math/robot_math.egg-info/PKG-INFO
+writing dependency_links to ../../build/robot_math/robot_math.egg-info/dependency_links.txt
+writing entry points to ../../build/robot_math/robot_math.egg-info/entry_points.txt
+writing requirements to ../../build/robot_math/robot_math.egg-info/requires.txt
+writing top-level names to ../../build/robot_math/robot_math.egg-info/top_level.txt
+reading manifest file '../../build/robot_math/robot_math.egg-info/SOURCES.txt'
+writing manifest file '../../build/robot_math/robot_math.egg-info/SOURCES.txt'
+running build
+running build_py
+copying robot_math/go_to_goal.py -> /home/kim/ros2_ws/build/robot_math/build/lib/robot_math
+running install
+running install_lib
+copying /home/kim/ros2_ws/build/robot_math/build/lib/robot_math/go_to_goal.py -> /home/kim/ros2_ws/install/robot_math/lib/python3.10/site-packages/robot_math
+byte-compiling /home/kim/ros2_ws/install/robot_math/lib/python3.10/site-packages/robot_math/go_to_goal.py to go_to_goal.cpython-310.pyc
+running install_data
+copying package.xml -> /home/kim/ros2_ws/install/robot_math/share/robot_math
+running install_egg_info
+removing '/home/kim/ros2_ws/install/robot_math/lib/python3.10/site-packages/robot_math-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/robot_math/robot_math.egg-info to /home/kim/ros2_ws/install/robot_math/lib/python3.10/site-packages/robot_math-0.0.0-py3.10.egg-info
+running install_scripts
+Installing angular_vel script to /home/kim/ros2_ws/install/robot_math/lib/robot_math
+writing list of installed files to '/home/kim/ros2_ws/build/robot_math/install.log'

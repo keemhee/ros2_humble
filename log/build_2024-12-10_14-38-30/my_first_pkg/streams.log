@@ -1,0 +1,35 @@
+[0.528s] Invoking command in '/home/kim/ros2_ws/src/my_first_pkg': PYTHONPATH=/home/kim/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/kim/ros2_ws/build/my_first_pkg/build install --record /home/kim/ros2_ws/build/my_first_pkg/install.log --single-version-externally-managed install_data
+[0.727s] running egg_info
+[0.728s] writing ../../build/my_first_pkg/my_first_pkg.egg-info/PKG-INFO
+[0.728s] writing dependency_links to ../../build/my_first_pkg/my_first_pkg.egg-info/dependency_links.txt
+[0.728s] writing entry points to ../../build/my_first_pkg/my_first_pkg.egg-info/entry_points.txt
+[0.729s] writing requirements to ../../build/my_first_pkg/my_first_pkg.egg-info/requires.txt
+[0.729s] writing top-level names to ../../build/my_first_pkg/my_first_pkg.egg-info/top_level.txt
+[0.731s] reading manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[0.732s] writing manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[0.732s] running build
+[0.732s] running build_py
+[0.733s] running install
+[0.733s] running install_lib
+[0.734s] running install_data
+[0.734s] copying launch/test.launch.py -> /home/kim/ros2_ws/install/my_first_pkg/share/my_first_pkg/launch
+[0.735s] running install_egg_info
+[0.736s] removing '/home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.737s] Copying ../../build/my_first_pkg/my_first_pkg.egg-info to /home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info
+[0.738s] running install_scripts
+[0.756s] Installing add_three_ints_client script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.756s] Installing add_three_ints_server script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.756s] Installing add_two_ints_client script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.757s] Installing add_two_ints_server script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.757s] Installing counter_node script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.757s] Installing counter_pub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.757s] Installing robot_station2 script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.757s] Installing sensor_status_pub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.757s] Installing sensor_status_sub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.757s] Installing sub_sub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.757s] Installing turtle_color script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.757s] Installing turtle_pose script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.757s] Installing turtlesim_controller script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.757s] Installing turtlesim_pub script to /home/kim/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[0.757s] writing list of installed files to '/home/kim/ros2_ws/build/my_first_pkg/install.log'
+[0.782s] Invoked command in '/home/kim/ros2_ws/src/my_first_pkg' returned '0': PYTHONPATH=/home/kim/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/kim/ros2_ws/build/my_first_pkg/build install --record /home/kim/ros2_ws/build/my_first_pkg/install.log --single-version-externally-managed install_data

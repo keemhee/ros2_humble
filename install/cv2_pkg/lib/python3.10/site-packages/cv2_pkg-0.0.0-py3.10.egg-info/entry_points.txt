@@ -1,0 +1,4 @@
+[console_scripts]
+img_pub = cv2_pkg.img_pub:main
+img_sub = cv2_pkg.img_sub:main
+

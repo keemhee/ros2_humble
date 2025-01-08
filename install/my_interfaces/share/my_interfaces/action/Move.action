@@ -1,0 +1,10 @@
+# 요청 메시지
+float64 distance  # 이동 거리
+
+---
+# 결과 메시지
+float64 total_distance  # 총 이동 거리
+
+---
+# 피드백 메시지
+float64 current_distance  # 현재까지 이동한 거리

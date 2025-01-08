@@ -1,0 +1,6 @@
+[0.000000] (-) TimerEvent: {}
+[0.000527] (-) JobUnselected: {'identifier': 'my_first_pkg'}
+[0.000574] (-) JobUnselected: {'identifier': 'my_interfaces'}
+[0.000599] (-) JobUnselected: {'identifier': 'my_robot_discription'}
+[0.000611] (-) JobUnselected: {'identifier': 'simple_test_pkg'}
+[0.001648] (-) EventReactorShutdown: {}

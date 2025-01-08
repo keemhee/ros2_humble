@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/simple_test_pkg/simple_test_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/simple_test_pkg/simple_test_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/simple_test_pkg/simple_test_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/simple_test_pkg/simple_test_pkg.egg-info/requires.txt
+writing top-level names to ../../build/simple_test_pkg/simple_test_pkg.egg-info/top_level.txt
+reading manifest file '../../build/simple_test_pkg/simple_test_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/simple_test_pkg/simple_test_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying simple_test_pkg/1206counter_sub.py -> /home/kim/ros2_ws/build/simple_test_pkg/build/lib/simple_test_pkg
+copying simple_test_pkg/1206counter_pub.py -> /home/kim/ros2_ws/build/simple_test_pkg/build/lib/simple_test_pkg
+running install
+running install_lib
+copying /home/kim/ros2_ws/build/simple_test_pkg/build/lib/simple_test_pkg/1206counter_sub.py -> /home/kim/ros2_ws/install/simple_test_pkg/lib/python3.10/site-packages/simple_test_pkg
+copying /home/kim/ros2_ws/build/simple_test_pkg/build/lib/simple_test_pkg/1206counter_pub.py -> /home/kim/ros2_ws/install/simple_test_pkg/lib/python3.10/site-packages/simple_test_pkg
+byte-compiling /home/kim/ros2_ws/install/simple_test_pkg/lib/python3.10/site-packages/simple_test_pkg/1206counter_sub.py to 1206counter_sub.cpython-310.pyc
+byte-compiling /home/kim/ros2_ws/install/simple_test_pkg/lib/python3.10/site-packages/simple_test_pkg/1206counter_pub.py to 1206counter_pub.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/kim/ros2_ws/install/simple_test_pkg/lib/python3.10/site-packages/simple_test_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/simple_test_pkg/simple_test_pkg.egg-info to /home/kim/ros2_ws/install/simple_test_pkg/lib/python3.10/site-packages/simple_test_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing counter_pub_test script to /home/kim/ros2_ws/install/simple_test_pkg/lib/simple_test_pkg
+Installing counter_sub_test script to /home/kim/ros2_ws/install/simple_test_pkg/lib/simple_test_pkg
+writing list of installed files to '/home/kim/ros2_ws/build/simple_test_pkg/install.log'

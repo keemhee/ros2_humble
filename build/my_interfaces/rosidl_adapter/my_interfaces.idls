@@ -1,0 +1,6 @@
+/home/kim/ros2_ws/build/my_interfaces/rosidl_adapter/my_interfaces:srv/AddThreeInts.idl
+/home/kim/ros2_ws/build/my_interfaces/rosidl_adapter/my_interfaces:msg/SensorStatus.idl
+/home/kim/ros2_ws/build/my_interfaces/rosidl_adapter/my_interfaces:srv/Move.idl
+/home/kim/ros2_ws/build/my_interfaces/rosidl_adapter/my_interfaces:action/CountUntil.idl
+/home/kim/ros2_ws/build/my_interfaces/rosidl_adapter/my_interfaces:action/Move.idl
+/home/kim/ros2_ws/build/my_interfaces/rosidl_adapter/my_interfaces:msg/NumForTest.idl

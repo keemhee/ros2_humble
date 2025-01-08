@@ -1,0 +1,4 @@
+[console_scripts]
+counter_pub_test = simple_test_pkg.1206counter_pub:main
+counter_sub_test = simple_test_pkg.1206counter_sub:main
+

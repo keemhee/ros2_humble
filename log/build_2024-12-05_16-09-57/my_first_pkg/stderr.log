@@ -1,0 +1,5 @@
+  File "/home/kim/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/turtlesim_pose_sub.py", line 22
+    self.get_logger().info(f"x: {pose.x},y: {pose.y}, theta: {pose.theta},
+                           ^
+SyntaxError: unterminated string literal (detected at line 22)
+

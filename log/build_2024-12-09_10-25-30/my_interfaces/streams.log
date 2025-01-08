@@ -1,0 +1,42 @@
+[0.009s] Invoking command in '/home/kim/ros2_ws/build/my_interfaces': CMAKE_PREFIX_PATH=/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake /home/kim/ros2_ws/src/my_interfaces -DCMAKE_INSTALL_PREFIX=/home/kim/ros2_ws/install/my_interfaces
+[0.065s] -- The C compiler identification is GNU 11.4.0
+[0.122s] -- The CXX compiler identification is GNU 11.4.0
+[0.139s] -- Detecting C compiler ABI info
+[0.199s] -- Detecting C compiler ABI info - done
+[0.209s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.209s] -- Detecting C compile features
+[0.209s] -- Detecting C compile features - done
+[0.212s] -- Detecting CXX compiler ABI info
+[0.297s] -- Detecting CXX compiler ABI info - done
+[0.304s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.305s] -- Detecting CXX compile features
+[0.305s] -- Detecting CXX compile features - done
+[0.307s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.555s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.633s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.702s] -- Added test 'lint_cmake' to check CMake code style
+[0.704s] -- Added test 'xmllint' to check XML markup files
+[0.704s] -- Configuring done
+[0.707s] -- Generating done
+[0.709s] -- Build files have been written to: /home/kim/ros2_ws/build/my_interfaces
+[0.713s] Invoked command in '/home/kim/ros2_ws/build/my_interfaces' returned '0': CMAKE_PREFIX_PATH=/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake /home/kim/ros2_ws/src/my_interfaces -DCMAKE_INSTALL_PREFIX=/home/kim/ros2_ws/install/my_interfaces
+[0.714s] Invoking command in '/home/kim/ros2_ws/build/my_interfaces': CMAKE_PREFIX_PATH=/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake --build /home/kim/ros2_ws/build/my_interfaces -- -j8 -l8
+[0.751s] Invoked command in '/home/kim/ros2_ws/build/my_interfaces' returned '0': CMAKE_PREFIX_PATH=/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake --build /home/kim/ros2_ws/build/my_interfaces -- -j8 -l8
+[0.763s] Invoking command in '/home/kim/ros2_ws/build/my_interfaces': CMAKE_PREFIX_PATH=/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake --install /home/kim/ros2_ws/build/my_interfaces
+[0.769s] -- Install configuration: ""
+[0.770s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/ament_index/resource_index/package_run_dependencies/my_interfaces
+[0.770s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/ament_index/resource_index/parent_prefix_path/my_interfaces
+[0.770s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/my_interfaces/environment/ament_prefix_path.sh
+[0.770s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/my_interfaces/environment/ament_prefix_path.dsv
+[0.772s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/my_interfaces/environment/path.sh
+[0.772s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/my_interfaces/environment/path.dsv
+[0.772s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/my_interfaces/local_setup.bash
+[0.772s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/my_interfaces/local_setup.sh
+[0.773s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/my_interfaces/local_setup.zsh
+[0.774s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/my_interfaces/local_setup.dsv
+[0.774s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/my_interfaces/package.dsv
+[0.774s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/ament_index/resource_index/packages/my_interfaces
+[0.774s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/my_interfacesConfig.cmake
+[0.774s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/my_interfacesConfig-version.cmake
+[0.774s] -- Installing: /home/kim/ros2_ws/install/my_interfaces/share/my_interfaces/package.xml
+[0.774s] Invoked command in '/home/kim/ros2_ws/build/my_interfaces' returned '0': CMAKE_PREFIX_PATH=/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake --install /home/kim/ros2_ws/build/my_interfaces

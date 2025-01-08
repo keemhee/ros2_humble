@@ -1,0 +1,2 @@
+Invoking command in '/home/kim/ros2_ws/build/my_robot_discription': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake --build /home/kim/ros2_ws/build/my_robot_discription -- -j8 -l8
+Invoked command in '/home/kim/ros2_ws/build/my_robot_discription' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/simple_test_pkg:/home/kim/ros2_ws/install/my_first_pkg:/opt/ros/humble /usr/bin/cmake --build /home/kim/ros2_ws/build/my_robot_discription -- -j8 -l8

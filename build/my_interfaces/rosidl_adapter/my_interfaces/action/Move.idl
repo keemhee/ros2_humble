@@ -1,0 +1,30 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from my_interfaces/action/Move.action
+// generated code does not contain a copyright notice
+
+
+module my_interfaces {
+  module action {
+    @verbatim (language="comment", text=
+      "요청 메시지")
+    struct Move_Goal {
+      @verbatim (language="comment", text=
+        "이동 거리")
+      double distance;
+    };
+    @verbatim (language="comment", text=
+      "결과 메시지")
+    struct Move_Result {
+      @verbatim (language="comment", text=
+        "총 이동 거리")
+      double total_distance;
+    };
+    @verbatim (language="comment", text=
+      "피드백 메시지")
+    struct Move_Feedback {
+      @verbatim (language="comment", text=
+        "현재까지 이동한 거리")
+      double current_distance;
+    };
+  };
+};
