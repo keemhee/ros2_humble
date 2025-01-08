@@ -1,0 +1,5 @@
+[console_scripts]
+motor_node = motor_node.motor_node:main
+motor_node2 = motor_node.motor_node2:main
+moving_rc_car = motor_node.rccar_stm32:main
+

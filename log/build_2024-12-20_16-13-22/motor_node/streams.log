@@ -1,0 +1,24 @@
+[0.942s] Invoking command in '/home/kim/stm_ws/src/motor_node': PYTHONPATH=/home/kim/stm_ws/build/motor_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/stm_ws/install/motor_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/motor_node build --build-base /home/kim/stm_ws/build/motor_node/build install --record /home/kim/stm_ws/build/motor_node/install.log --single-version-externally-managed install_data
+[1.250s] running egg_info
+[1.251s] writing ../../build/motor_node/motor_node.egg-info/PKG-INFO
+[1.251s] writing dependency_links to ../../build/motor_node/motor_node.egg-info/dependency_links.txt
+[1.252s] writing entry points to ../../build/motor_node/motor_node.egg-info/entry_points.txt
+[1.252s] writing requirements to ../../build/motor_node/motor_node.egg-info/requires.txt
+[1.252s] writing top-level names to ../../build/motor_node/motor_node.egg-info/top_level.txt
+[1.256s] reading manifest file '../../build/motor_node/motor_node.egg-info/SOURCES.txt'
+[1.256s] writing manifest file '../../build/motor_node/motor_node.egg-info/SOURCES.txt'
+[1.256s] running build
+[1.257s] running build_py
+[1.257s] copying motor_node/motor_node.py -> /home/kim/stm_ws/build/motor_node/build/lib/motor_node
+[1.257s] running install
+[1.257s] running install_lib
+[1.257s] copying /home/kim/stm_ws/build/motor_node/build/lib/motor_node/motor_node.py -> /home/kim/stm_ws/install/motor_node/lib/python3.10/site-packages/motor_node
+[1.265s] byte-compiling /home/kim/stm_ws/install/motor_node/lib/python3.10/site-packages/motor_node/motor_node.py to motor_node.cpython-310.pyc
+[1.270s] running install_data
+[1.271s] running install_egg_info
+[1.271s] removing '/home/kim/stm_ws/install/motor_node/lib/python3.10/site-packages/motor_node-0.0.0-py3.10.egg-info' (and everything under it)
+[1.271s] Copying ../../build/motor_node/motor_node.egg-info to /home/kim/stm_ws/install/motor_node/lib/python3.10/site-packages/motor_node-0.0.0-py3.10.egg-info
+[1.271s] running install_scripts
+[1.310s] Installing motor_node script to /home/kim/stm_ws/install/motor_node/lib/motor_node
+[1.311s] writing list of installed files to '/home/kim/stm_ws/build/motor_node/install.log'
+[1.332s] Invoked command in '/home/kim/stm_ws/src/motor_node' returned '0': PYTHONPATH=/home/kim/stm_ws/build/motor_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/stm_ws/install/motor_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/motor_node build --build-base /home/kim/stm_ws/build/motor_node/build install --record /home/kim/stm_ws/build/motor_node/install.log --single-version-externally-managed install_data
