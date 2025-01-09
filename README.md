@@ -1,6 +1,8 @@
 # ros2_humble
 
 ubuntu 20.04
+https://releases.ubuntu.com/focal/
+	ubuntu-20.04.6-desktop-amd64.iso
 
 https://www.virtualbox.org/
 VirtualBox 7.0
