@@ -31,5 +31,5 @@ Extensions
 Home에 workspace 추가하기
 
 
-##ros2_ws : ROS 2 수업 내용과 관련된 실습이 포함된 브랜치
-##stm_ws : STM32와 ROS 간의 통신 실습 내용이 포함된 브랜치
+## ros2_ws : ROS 2 수업 내용과 관련된 실습이 포함된 브랜치    
+## stm_ws : STM32와 ROS 간의 통신 실습 내용이 포함된 브랜치
